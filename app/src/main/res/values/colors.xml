@@ -1,0 +1,8 @@
+<resources>
+    <color name="messenger_blue">#0084FF</color>
+    <color name="messenger_bg">#F2F3F5</color>
+    <color name="my_bubble">#0084FF</color>
+    <color name="other_bubble">#E4E6EB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
